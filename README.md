@@ -4,9 +4,9 @@ This repository is training of python sound source separation by SSS Python Book
 
 ## Reference codes
 
-Refernce sample codes(below repositories) is cloned in `./sample_codes`.
+Clone Refernce sample codes repository by below commnads to `./sample_codes`.
 
-- <https://github.com/masahitotogami/python_source_separation>
+`git clone git@github.com:bhasevambit/python_source_separation.git`
 
 ## Python Version
 
