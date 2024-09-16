@@ -1,6 +1,6 @@
 # Python Sound Source Separation Practice by SSS Python Book
 
-This repository is training of python sound source separation by SSS Python Book.
+This repository is practice of python sound source separation by SSS Python Book.
 
 ## Reference codes
 
